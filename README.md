@@ -4,11 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-🌟 Crafting delightful user experiences through clean and efficient code. 🔧 Proficient in HTML, CSS, JavaScript, and modern frontend frameworks like React. 🎨 Passionate about creating visually appealing interfaces with attention to detail. 📱 Experienced in building responsive and mobile-friendly web applications. 🌱 Constantly learning and exploring new technologies to stay ahead in the ever-evolving world of web development. Let's build something awesome together! Feel free to reach out for collaborations or just to say hello! 😊
+* 🌟 Crafting delightful user experiences through clean and efficient code.
+* 🔧 Proficient in HTML, CSS, JavaScript, and modern frontend frameworks like React.
+* 🎨 Passionate about creating visually appealing interfaces with attention to detail.
+* 📱 Experienced in building responsive and mobile-friendly web applications.
+* 🌱 Constantly learning and exploring new technologies to stay ahead in the ever-evolving world of web development.
+  
+* Let's build something awesome together! Feel free to reach out for collaborations or just to say hello! 😊
 
-* 🌍  I'm based in West Bengal, India
 * ✉️  You can contact me at [swadhindhara@gmail.com](mailto:swadhindhara@gmail.com)
-* 🧠  I'm learning Next Js
+* 🌍  I'm based in West Bengal, India
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
